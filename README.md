@@ -1,6 +1,6 @@
 # View-saved-wifi-password
 
-apt install python
 pip install git
 
-git clone 
+git clone https://github.com/indogegewepe/View-saved-wifi-password
+
